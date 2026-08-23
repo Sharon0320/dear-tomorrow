@@ -2,6 +2,10 @@
 
 #agents
 
+### Architecture Preview
+<img width="1632" height="809" alt="제목 없는 다이어그램 drawio" src="https://github.com/user-attachments/assets/c5025611-5d3d-4749-95a5-8b7314628a01" />
+
+
 ## 🌅 Vision
 
 **Dear Tomorrow** was created from a simple idea:
@@ -261,6 +265,9 @@ Amazon Bedrock's runtime APIs are available through the `bedrock-runtime` endpoi
 ---
 
 ## 🏗️ Architecture Overview
+
+<img width="1632" height="809" alt="제목 없는 다이어그램 drawio" src="https://github.com/user-attachments/assets/01a5514c-d6cb-4d03-945c-6d08ca1d02dd" />
+
 
 ```text
                          INTERNET
